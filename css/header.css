@@ -1,0 +1,7 @@
+#jumboStyle {
+    background: url(../assets/restaurant-front.gif) no-repeat center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: var(--font-one);
+}
