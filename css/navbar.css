@@ -7,3 +7,22 @@
     margin-left: 80%;
     color: white;
 }
+
+.nav-link-1,
+.navbar-brand {
+    display: block;
+    padding: .5rem 1rem;
+    color: rgb(255, 255, 255);
+}
+
+.nav-link-1:focus,
+.nav-link-1:hover,
+.navbar-brand {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-brand {
+    font-family: var(--font-one);
+    font-size: 20px;
+}

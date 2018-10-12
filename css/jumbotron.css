@@ -1,0 +1,19 @@
+.display-jumbotron {
+    font-size: 3.0rem;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: var(--font-one);
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 25%;
+    margin: 0 auto;
+}
+
+.lead-jumbotron {
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: var(--font-one);
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 25%;
+    margin: 0 auto;
+}

@@ -1,5 +1,6 @@
 .contactMeGroup {
-    text-align: center;
+    color: white;
+    padding: 10px;
 }
 
 .form-control {
@@ -8,11 +9,14 @@
 }
 
 .contact {
-    text-align: center;
+    text-align: left;
     width: 1000px;
+    color: white;
 }
 
 form {
     margin: 0 auto;
     width: 80%;
+    color: white;
+    padding: 20px;
 }
